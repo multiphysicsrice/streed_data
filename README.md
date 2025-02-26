@@ -10,7 +10,7 @@ All experimental data is contained within the single Microsoft Excel spreadsheet
 
 Simulation data are split into separate text files for each figure panel. Each figure has its own subfolder within "Simulation Data".
 For instance, the curves on Fig. 2, panel c are found in the folder "Simluation Data/Fig 2/" and in the .txt file "2c.txt". 
-All text files are formatted in the same way: each contain two (2) header lines that can be skipped upon import and plotted variables are along the columns. The second header line labels the variables. The x-variable is always the first column.
+All text files are formatted in the same way: each contain two (2) header lines that can be skipped upon import and plotted variables are along the columns. The second header line labels the variables. Labels are numbered with c/Python-style indices for convenience (i.e. 0., 1., 2...). The x-variable is always the first column.
 
 # Contact
 As of March 2025, questions about experimental data can be sent to the experimental lead at amm40@rice.edu, and questions about simulation data can be sent to the simulation lead at ws33@rice.edu. The corresponding author is at aa80@rice.edu.

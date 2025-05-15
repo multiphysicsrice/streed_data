@@ -1,5 +1,5 @@
 # STREED Data
-The repository hosts the experimental and numerical data supporting the work W. Schmid, A. Machorro-Ortiz et al., Resonant energy transfer for membrane-free, off-grid solar thermal humidification dehumidification desalination, Under Review, 2025 (doi to be provided after publication).
+The repository hosts the experimental and numerical data supporting the work Schmid, W., Machorro-Ortiz, A., Ye, Q. et al. Resonant energy transfer for membrane-free, off-grid solar thermal humidification–dehumidification desalination. Nat Water (2025). https://doi.org/10.1038/s44221-025-00438-3
 
 # Folders and files
 Main folders:

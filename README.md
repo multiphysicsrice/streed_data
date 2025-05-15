@@ -12,5 +12,7 @@ Simulation data are split into separate text files for each figure panel. Each f
 For instance, the curves on Fig. 2, panel c are found in the folder "Simluation Data/Fig 2/" and in the .txt file "2c.txt". 
 All text files are formatted in the same way: each contain two (2) header lines that can be skipped upon import and plotted variables are along the columns. The second header line labels the variables. Labels are numbered with c/Python-style indices for convenience (i.e. 0., 1., 2...). The x-variable is always the first column.
 
+Note: data files for Fig. 5 have a more recent commit date than the rest of the files; Fig. 5 used to be Fig. 6 in earlier revisions of the paper and the related files were renamed according to the May 2025 published version. These files have not been changed except for labeling and are the data for the panels in the published version of Fig. 5.
+
 # Contact
 As of May 2025, questions regarding experimental data can be sent to the experimental lead at amm40@rice.edu. Questions regarding simulation data can be sent to the simulation lead at ws33@rice.edu. The corresponding author is at aa80@rice.edu.
